@@ -73,8 +73,8 @@ Managing discount strategies and focusing on high-profit categories can signific
 ---
 
 ## 🔗 Connect & Explore
-- 💼 LinkedIn: [Add your LinkedIn]
-- 📂 GitHub Repo: [Add your link]
+- 💼 LinkedIn: [https://www.linkedin.com/in/waheed-mujtaba/]
+- 📂 GitHub Repo: [https://github.com/Waheed-6907/CodeAlpha_DataVisualization]
 
 ---
 
